@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes>
+    <vType id="typeNS" length="7.00" minGap="3.00" maxSpeed="25.00" guiShape="bus" accel="0.8" decel="4.5" sigma="0.5"/>
+    <vType id="typeWE" length="5.00" minGap="2.50" maxSpeed="16.67" guiShape="passenger" accel="0.8" decel="4.5" sigma="0.5"/>
+    <route edges="-gneE7 gneE5" color="yellow" id="route_0"/>
+    <route edges="-gneE7 gneE6" color="yellow" id="route_1"/>
+    <route edges="-gneE4 gneE5" color="yellow" id="route_10"/>
+    <route edges="-gneE4 gneE6" color="yellow" id="route_11"/>
+    <route edges="-gneE7 gneE4" color="yellow" id="route_2"/>
+    <route edges="-gneE5 gneE6" color="yellow" id="route_3"/>
+    <route edges="-gneE5 gneE4" color="yellow" id="route_4"/>
+    <route edges="-gneE5 gneE7" color="yellow" id="route_5"/>
+    <route edges="-gneE6 gneE4" color="yellow" id="route_6"/>
+    <route edges="-gneE6 gneE7" color="yellow" id="route_7"/>
+    <route edges="-gneE6 gneE5" color="yellow" id="route_8"/>
+    <route edges="-gneE4 gneE7" color="yellow" id="route_9"/>
+    
+</routes>

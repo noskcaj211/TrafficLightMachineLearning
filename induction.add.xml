@@ -1,0 +1,28 @@
+<additional>
+   <inductionLoop id="0" lane="-gneE7_3" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="1" lane="-gneE7_2" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="2" lane="-gneE7_1" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="3" lane="-gneE7_0" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="16" lane="-gneE5_1" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="17" lane="-gneE5_0" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="4" lane="-gneE6_3" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="5" lane="-gneE6_2" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="6" lane="-gneE6_1" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="7" lane="-gneE6_0" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="18" lane="-gneE4_1" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="19" lane="-gneE4_0" pos="-3" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="8" lane="-gneE7_3" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="9" lane="-gneE7_2" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="10" lane="-gneE7_1" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="11" lane="-gneE7_0" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="20" lane="-gneE5_1" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="21" lane="-gneE5_0" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="12" lane="-gneE6_3" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="13" lane="-gneE6_2" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="14" lane="-gneE6_1" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="15" lane="-gneE6_0" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="22" lane="-gneE4_1" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+   <inductionLoop id="23" lane="-gneE4_0" pos="-10" freq="1" file="output.out" friendlyPos="true"/>
+
+
+</additional>
